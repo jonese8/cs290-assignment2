@@ -78,10 +78,12 @@ dt:hover + dd {
 .outer-content{
      background-color: pink;
      width:75%;
+     margin-top: 20px;
 }
 
 img {
      float: left;
 }
+
 
 
